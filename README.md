@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Marcos Silva 👨‍💻♘
 
-Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programação.
+Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programação.<br><br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N3onKn1gh7&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N3onKn1gh7&show_icons=true&theme=tokyonight)<br><br>
 
 
 ## Tecnologias que utilizo
