@@ -55,6 +55,8 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
 ### Curso Carreira Mobile - DevMedia:<br>
 - [Projetos](https://github.com/N3onKn1gh7/Estudos/tree/main/mobile/mobile_projetos_devmedia)
 
+### Projetos diversos:
+- [Desafio de projeto Walljobs](https://github.com/N3onKn1gh7/nunes_sports)
 
 
 <br><br>
