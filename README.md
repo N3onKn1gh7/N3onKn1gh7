@@ -30,18 +30,30 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
 
 ## Índice
 
-### Bootcamp GFT Desenvolvimento Java com I.A:<br>
+### Bootcamp GFT Desenvolvimento Java com I.A - DIO:<br>
 
 - [Exercicios](https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_exercicios_Dio) (Pilares POO, Collections, Controle de Fluxo, Stream API)
 - [Projetos](https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_projetos_Dio)
 - [Certificado](https://hermes.dio.me/certificates/HAK4QLRF.pdf)
 
 
-### Bootcamp Microsoft Copilot A.I:<br>
+### Bootcamp Microsoft Copilot A.I - DIO:<br>
 - [Projetos](https://github.com/N3onKn1gh7/Estudos/tree/main/bootcamps/Bootcamp_microsoft_dio)
 - [Certificado](https://hermes.dio.me/certificates/JXQ0DX2F.pdf)
 
+### Curso Java Completo - Udemy:<br>
+- [Exercícios](https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_exercicios_Udemy)
+- [Projetos]() (Em andamento)
 
+### Curso Formação HTML Developer - DIO:<br>
+- [Exercícios](https://github.com/N3onKn1gh7/Estudos/tree/main/html/html_css_exercicios_Dio)
+- [Projetos](https://github.com/N3onKn1gh7/Estudos/tree/main/html/html_css_projetos_Dio)
+
+### Curso Carreira Front End - DevMedia:<br>
+- [Projetos](https://github.com/N3onKn1gh7/Estudos/tree/main/html/html_css_projetos_Devmedia)
+
+### Curso Carreira Mobile - DevMedia:<br>
+- [Projetos](https://github.com/N3onKn1gh7/Estudos/tree/main/mobile/mobile_projetos_devmedia)
 
 
 
