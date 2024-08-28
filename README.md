@@ -39,7 +39,8 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
 
 ### Bootcamp Microsoft Copilot A.I:<br>
 - [Projetos](https://github.com/N3onKn1gh7/Estudos/tree/main/bootcamps/Bootcamp_microsoft_dio)
-- [Certificado](https://hermes.dio.me/certificates/HAK4QLRF.pdf)
+- <a href="https://www.exemplo.com" target="_blank">Certificado</a>
+
 
 
 
