@@ -28,7 +28,7 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
 
 <br><br>
 
-## Índice
+## Índice (Bootcamps, Cursos e Projetos)
 
 ### Bootcamp GFT Desenvolvimento Java com I.A - DIO:<br>
 
