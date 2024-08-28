@@ -42,7 +42,7 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
 - [Certificado](https://hermes.dio.me/certificates/JXQ0DX2F.pdf)
 
 ### Curso Java Completo - Udemy:<br>
-- [Exercícios](https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_exercicios_Udemy)
+- [Exercícios](https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_exercicios_Udemy) (Em andamento)
 - [Projetos]() (Em andamento)
 
 ### Curso Formação HTML Developer - DIO:<br>
@@ -55,8 +55,6 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
 ### Curso Carreira Mobile - DevMedia:<br>
 - [Projetos](https://github.com/N3onKn1gh7/Estudos/tree/main/mobile/mobile_projetos_devmedia)
 
-### Projetos diversos
-- [Link](https://github.com/N3onKn1gh7/Projetos)
 
 
 <br><br>
