@@ -34,7 +34,7 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
 
 - [Exercicios](https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_exercicios_Dio) (Pilares POO, Collections, Controle de Fluxo, Stream API)
 - [Projetos](https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_projetos_Dio)
-- [Certificado](https://hermes.dio.me/certificates/HAK4QLRF.pdf)
+- [Certificado]<a href="blank_https://hermes.dio.me/certificates/HAK4QLRF.pdf" target="_blank"></a>
 
 
 ### Bootcamp Microsoft Copilot A.I:<br>
