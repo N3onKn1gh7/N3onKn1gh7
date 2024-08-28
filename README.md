@@ -28,7 +28,25 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
 
 <br><br>
 
+## Índice
+
+### Bootcamp GFT Desenvolvimento Java com I.A:<br>
+
+- [Exercicios](https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_exercicios_Dio) (Pilares POO, Collections, Controle de Fluxo, Stream API)
+- [Projetos](https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_projetos_Dio)
+- [Certificado](https://hermes.dio.me/certificates/HAK4QLRF.pdf)
+
+
+### Bootcamp Microsoft Copilot A.I:<br>
+- [Projetos](https://github.com/N3onKn1gh7/Estudos/tree/main/bootcamps/Bootcamp_microsoft_dio)
+- [Certificado](https://hermes.dio.me/certificates/JXQ0DX2F.pdf)
+
+
+
+<br><br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N3onKn1gh7)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
