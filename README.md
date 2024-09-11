@@ -45,13 +45,14 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
 - [Exercícios](https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_exercicios_Udemy) (Em andamento)
 - [Projetos](https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_projetos_Udemy/usuariodept) (Em andamento)
 
-### Curso Formação Java Developr - DIO:<br>
+### Curso Formação Java Developer - DIO:<br>
 - [Exercícios](https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_exercicios_Dio) (Em andamento)
 - [Projetos](https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_projetos_Dio) (Em andamento)
 
 ### Curso Formação HTML Developer - DIO:<br>
 - [Exercícios](https://github.com/N3onKn1gh7/Estudos/tree/main/html/html_css_exercicios_Dio)
 - [Projetos](https://github.com/N3onKn1gh7/Estudos/tree/main/html/html_css_projetos_Dio)
+- [Certificado](https://hermes.dio.me/certificates/KOWPORYU.pdf)
 
 ### Curso Carreira Front End - DevMedia:<br>
 - [Projetos](https://github.com/N3onKn1gh7/Estudos/tree/main/html/html_css_projetos_Devmedia)
