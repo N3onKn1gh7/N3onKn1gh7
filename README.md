@@ -47,6 +47,10 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
 - [Exercícios](https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_exercicios_Dio) (Em andamento)
 - [Projetos](https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_projetos_Dio) (Em andamento)
 
+- ### Curso Formação React Native Developer - DIO:<br>
+- [Exercícios](https://github.com/N3onKn1gh7/Estudos/tree/main/mobile/react_native_dio/primeiros_passos_reactNative_expo) (Em andamento)
+- [Projetos](https://github.com/N3onKn1gh7/Estudos/tree/main/mobile/react_native_dio_projetos/projeto1_reactNative_dio/bat-pass-app) (Em andamento)
+
 ### Curso Formação JavaScript Developer - DIO:<br>
 - [Exercícios](https://github.com/N3onKn1gh7/Estudos/tree/main/javaScript/JavaScript_exercicios_dio) (Em andamento)
 
