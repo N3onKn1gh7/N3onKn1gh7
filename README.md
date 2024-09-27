@@ -28,42 +28,140 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
 
 ## Índice (Bootcamps, Cursos e Projetos)
 
-### Bootcamp GFT Desenvolvimento Java com I.A - DIO:<br>
 
-- [Exercicios](https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_exercicios_Dio) (Pilares POO, Collections, Controle de Fluxo, Stream API)
-- [Projetos](https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_projetos_Dio)
-- [Certificado](https://hermes.dio.me/certificates/HAK4QLRF.pdf)
+<table>
+  <tr>
+    <td>
+      <img src="https://assets.dio.me/AzDCXXW98HQtfqrrt4g11V9HZwrU8GvQ5BTZ8X7Npwg/f:webp/h:120/q:80/L3RyYWNrcy9iZTQzMjk0ZS00YjY4LTQzYjAtOWYwMy1kNDIyMWYyOTNjNDUucG5n" width="100"/>
+    </td>
+    <td>
+      <h3>Bootcamp GFT Desenvolvimento Java com I.A - DIO:</h3>
+      <ul>
+        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_exercicios_Dio">Exercícios</a></li>
+        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_projetos_Dio">Projetos</a></li>
+        <li><a href="https://hermes.dio.me/certificates/HAK4QLRF.pdf">Certificado</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
-### Bootcamp Microsoft Copilot A.I - DIO:<br>
-- [Projetos](https://github.com/N3onKn1gh7/Estudos/tree/main/bootcamps/Bootcamp_microsoft_dio)
-- [Certificado](https://hermes.dio.me/certificates/JXQ0DX2F.pdf)
+<table>
+  <tr>
+    <td>
+      <img src="https://assets.dio.me/1sqn3R--VWHRW4eb4-KnqeFKGFbnaxNKz3Q883q-HkI/f:webp/h:120/q:80/L3RyYWNrcy9lMGI0YWQ1MS1hNGM3LTRlNjEtYTY4My1jMDRmNmQzNzZlOWMucG5n" width="100"/>
+    </td>
+    <td>
+      <h3>Bootcamp Microsoft Copilot A.I - DIO:</h3>
+      <ul>
+        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/bootcamps/Bootcamp_microsoft_dio">Projetos</a></li>
+        <li><a href="https://hermes.dio.me/certificates/JXQ0DX2F.pdf">Certificado</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### Curso Java Completo - Udemy:<br>
-- [Exercícios](https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_exercicios_Udemy) (Em andamento)
-- [Projetos](https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_projetos_Udemy/usuariodept) (Em andamento)
+<table>
+  <tr>
+    <td>
+      <img src="https://assets.dio.me/KIwdxM7_x0DPiyrnNEBcio7DYZDqtaSz2G4OPaSsLgs/f:webp/h:120/q:80/L3RyYWNrcy9kYTYwNDFhOS04MGVmLTQwOWUtYmQ1MC01ZTdiZTRkZmFkZjYucG5n" width="100"/>
+    </td>
+    <td>
+      <h3>Curso Formação Java Developer - DIO:</h3>
+      <ul>
+        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_exercicios_Dio">Exercícios</a> (Em andamento)</li>
+        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_projetos_Dio">Projetos</a> (Em andamento)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### Curso Formação Java Developer - DIO:<br>
-- [Exercícios](https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_exercicios_Dio) (Em andamento)
-- [Projetos](https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_projetos_Dio) (Em andamento)
+<table>
+  <tr>
+    <td>
+      <img src="https://assets.dio.me/WatYqmtqq5JBFrsN3Ouhuem-_4Ehm_QTGp2wpvFH4Iw/f:webp/h:120/q:80/L3RyYWNrcy9hMmQzOTgzZS0wMWRiLTRjZmItOTQwMi1mZGVkYWU3OTVhZjAucG5n" width="100"/>
+    </td>
+    <td>
+      <h3>Curso Formação React Native Developer - DIO:</h3>
+      <ul>
+        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/mobile/react_native_dio/primeiros_passos_reactNative_expo">Exercícios</a> (Em andamento)</li>
+        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/mobile/react_native_dio_projetos/projeto1_reactNative_dio/bat-pass-app">Projetos</a> (Em andamento)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>
+      <img src="https://assets.dio.me/_ImeVq2qMIfyFkoYC-epZ9o-1X9soGtq69WUykqhiL4/f:webp/h:120/q:80/L3RyYWNrcy81NWU3MDQwZi03NzViLTQ3ZTUtYThmYi02OWQwMDJjYTE3YTkucG5n" width="100"/>
+    </td>
+    <td>
+      <h3>Curso Formação JavaScript Developer - DIO:</h3>
+      <ul>
+        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/javaScript/JavaScript_exercicios_dio">Exercícios</a> (Em andamento)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>
+      <img src="https://assets.dio.me/PXTHzpYRJjOb5iSXboRqYrTpSTGIFVuStrwRtsTpVUc/f:webp/h:120/q:80/L3RyYWNrcy82MmVkMWYxZC04ZDc2LTRiYmMtOTA1Zi1lNzNkMjBjYjgyZjUucG5n" width="100"/>
+    </td>
+    <td>
+      <h3>Curso Formação HTML Developer - DIO:</h3>
+      <ul>
+        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/html/html_css_exercicios_Dio">Exercícios</a></li>
+        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/html/html_css_projetos_Dio">Projetos</a></li>
+        <li><a href="https://hermes.dio.me/certificates/KOWPORYU.pdf">Certificado</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-- ### Curso Formação React Native Developer - DIO:<br>
-- [Exercícios](https://github.com/N3onKn1gh7/Estudos/tree/main/mobile/react_native_dio/primeiros_passos_reactNative_expo) (Em andamento)
-- [Projetos](https://github.com/N3onKn1gh7/Estudos/tree/main/mobile/react_native_dio_projetos/projeto1_reactNative_dio/bat-pass-app) (Em andamento)
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/N3onKn1gh7/Estudos/blob/main/java/java_exercicios_Udemy/img/java.png" width="100"/>
+    </td>
+    <td>
+      <h3>Curso Java Completo - Udemy:</h3>
+      <ul>
+        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_exercicios_Udemy">Exercícios</a> (Em andamento)</li>
+        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_projetos_Udemy/usuariodept">Projetos</a> (Em andamento)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### Curso Formação JavaScript Developer - DIO:<br>
-- [Exercícios](https://github.com/N3onKn1gh7/Estudos/tree/main/javaScript/JavaScript_exercicios_dio) (Em andamento)
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/N3onKn1gh7/Estudos/blob/main/html/html_css_projetos_Devmedia/img/html.png" width="100"/>
+    </td>
+    <td>
+      <h3>Curso Carreira Front End - DevMedia:</h3>
+      <ul>
+        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/html/html_css_projetos_Devmedia">Projetos</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### Curso Formação HTML Developer - DIO:<br>
-- [Exercícios](https://github.com/N3onKn1gh7/Estudos/tree/main/html/html_css_exercicios_Dio)
-- [Projetos](https://github.com/N3onKn1gh7/Estudos/tree/main/html/html_css_projetos_Dio)
-- [Certificado](https://hermes.dio.me/certificates/KOWPORYU.pdf)
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/N3onKn1gh7/Estudos/blob/main/mobile/mobile_projetos_devmedia/img/react.png" width="100"/>
+    </td>
+    <td>
+      <h3>Curso Carreira Mobile - DevMedia:</h3>
+      <ul>
+        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/mobile/react_native_dio_projetos/projeto1_reactNative_dio/bat-pass-app">Projetos</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### Curso Carreira Front End - DevMedia:<br>
-- [Projetos](https://github.com/N3onKn1gh7/Estudos/tree/main/html/html_css_projetos_Devmedia)
-
-### Curso Carreira Mobile - DevMedia:<br>
-- [Projetos](https://github.com/N3onKn1gh7/Estudos/tree/main/mobile/mobile_projetos_devmedia)
 
 ### Projetos diversos:
 - [Desafio de projeto Best Minds](https://github.com/N3onKn1gh7/nunes_sports)
