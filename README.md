@@ -84,7 +84,7 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
     <td>
       <h3>Curso Formação React Native Developer - DIO:</h3>
       <ul>
-        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/mobile/react_native_dio/primeiros_passos_reactNative_expo">Exercícios</a> (Em andamento)</li>
+        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/mobile/react_native_dio">Exercícios</a> (Em andamento)</li>
         <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/mobile/react_native_dio_projetos/projeto1_reactNative_dio/bat-pass-app">Projetos</a> (Em andamento)</li>
       </ul>
     </td>
