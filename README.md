@@ -106,6 +106,21 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
 <table>
   <tr>
     <td>
+      <img src="https://github.com/N3onKn1gh7/Estudos/blob/main/javaScript/JavaScript7dias_aulas_udemy/img/Udemy.png" width="100"/>
+    </td>
+    <td>
+      <h3>Curso JavaScript em 7 dias + projetos reais:</h3>
+      <ul>
+        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/javaScript/JavaScript7dias_aulas_udemy">Exercícios </a>(Em andamento)</li>
+        <li><a href="">Projetos </a>(Em andamento)</li>
+        <li><a href="">Certificado </a>(Em andamento)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>
       <img src="https://assets.dio.me/PXTHzpYRJjOb5iSXboRqYrTpSTGIFVuStrwRtsTpVUc/f:webp/h:120/q:80/L3RyYWNrcy82MmVkMWYxZC04ZDc2LTRiYmMtOTA1Zi1lNzNkMjBjYjgyZjUucG5n" width="100"/>
     </td>
     <td>
