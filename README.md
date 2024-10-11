@@ -199,7 +199,7 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
 <p>Projeto demonstrando uso de listas, agrupamento de imagens e uso do efeito paralax  </p>
 
 ![Demonstração do projeto](https://github.com/N3onKn1gh7/Estudos/blob/main/html/html_css_projetos_Devmedia/img/advocacia.gif)
--[Link do código do projeto](https://github.com/N3onKn1gh7/Estudos/tree/main/html/html_css_projetos_Devmedia/img)<br><br>
+-[Link do código do projeto](https://github.com/N3onKn1gh7/Estudos/tree/main/html/html_css_projetos_Devmedia/senhor_lei)<br><br>
 
 
 <br><br>
