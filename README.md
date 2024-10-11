@@ -187,7 +187,19 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
 <p>O objetivo desse projeto foi maximizar os recursos do HTML puro com o mínimo de recursos de CSS </p>
 
 ![Demonstração do projeto](https://github.com/N3onKn1gh7/Estudos/blob/main/html/html_css_projetos_Dio/Desafio_2/midia/Anima%C3%A7%C3%A3o.gif)
--[Link do código do projeto](https://github.com/N3onKn1gh7/Estudos/tree/main/html/html_css_projetos_Dio/Desafio_2) <br><br>
+-[Link do código do projeto](https://github.com/N3onKn1gh7/Estudos/tree/main/html/html_css_projetos_Dio/Desafio_2)<br><br>
+
+## Pet Shop Boutique
+<p>Projeto demonstrando agrupamento  e dimensionamento de varias imagens, uso de listas e links na mesma tela </p>
+
+![Demonstração do projeto](https://github.com/N3onKn1gh7/Estudos/blob/main/html/html_css_projetos_Devmedia/img/PetShop.gif)
+-[Link do código do projeto](https://github.com/N3onKn1gh7/Estudos/tree/main/html/html_css_projetos_Devmedia/petshop_boutique)<br><br>
+
+## Senhor Lei
+<p>Projeto demonstrando uso de listas, agrupamento de imagens e uso do efeito paralax  </p>
+
+![Demonstração do projeto](https://github.com/N3onKn1gh7/Estudos/blob/main/html/html_css_projetos_Devmedia/img/advocacia.gif)
+-[Link do código do projeto](https://github.com/N3onKn1gh7/Estudos/tree/main/html/html_css_projetos_Devmedia/img)<br><br>
 
 
 <br><br>
