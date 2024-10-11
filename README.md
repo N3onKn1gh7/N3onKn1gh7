@@ -109,7 +109,7 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
       <img src="https://github.com/N3onKn1gh7/Estudos/blob/main/javaScript/JavaScript7dias_aulas_udemy/img/Udemy.png" width="100"/>
     </td>
     <td>
-      <h3>Curso JavaScript em 7 dias + projetos reais:</h3>
+      <h3>Curso JavaScript em 7 dias + projetos reais - Udemy:</h3>
       <ul>
         <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/javaScript/JavaScript7dias_aulas_udemy">Exercícios </a>(Em andamento)</li>
         <li><a href="">Projetos </a>(Em andamento)</li>
@@ -181,10 +181,19 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
 ### Projetos diversos:
 - [Desafio de projeto Best Minds](https://github.com/N3onKn1gh7/nunes_sports)
 
+# Demonstração de projetos realizados em cursos
+
+## Sanatório de Arkham
+<p>O objetivo desse projeto foi maximizar os recursos do HTML puro com o mínimo de recursos de CSS </p>
+
+![Demonstração do projeto](https://github.com/N3onKn1gh7/Estudos/blob/main/html/html_css_projetos_Dio/Desafio_2/midia/Anima%C3%A7%C3%A3o.gif)
+-[Link do código do projeto](https://github.com/N3onKn1gh7/Estudos/tree/main/html/html_css_projetos_Dio/Desafio_2) <br><br>
+
 
 <br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N3onKn1gh7)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
