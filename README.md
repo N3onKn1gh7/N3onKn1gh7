@@ -181,7 +181,13 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
 ### Projetos diversos:
 - [Desafio de projeto Best Minds](https://github.com/N3onKn1gh7/nunes_sports)
 
-# Demonstração de projetos realizados em cursos
+# Demonstração de projetos
+
+## Stage University
+Este repositorio tem como o objetivo aplicar técnicas de animações com o uso de css <br><br>
+![Demonstração do projeto](https://github.com/N3onKn1gh7/stage_university/blob/main/img/Stage.gif)
+-[Link do código do projeto](https://github.com/N3onKn1gh7/stage_university/tree/main)
+
 
 ## Sanatório de Arkham
 <p>O objetivo desse projeto foi maximizar os recursos do HTML puro com o mínimo de recursos de CSS </p>
