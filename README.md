@@ -201,6 +201,12 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
 ![Demonstração do projeto](https://github.com/N3onKn1gh7/Estudos/blob/main/html/html_css_projetos_Devmedia/img/advocacia.gif)
 -[Link do código do projeto](https://github.com/N3onKn1gh7/Estudos/tree/main/html/html_css_projetos_Devmedia/senhor_lei)<br><br>
 
+##Calculadora de Gorjeta com HTML, CSS e Javascript
+
+![Demonstração do projeto](https://github.com/N3onKn1gh7/Estudos/blob/main/javaScript/JavaScript7dias_aulas_udemy/Desafios_javaScript/Desafio4/img/Calculadora%20de%20gorjetas.gif)
+-[Link do código do projeto](https://github.com/N3onKn1gh7/Estudos/tree/main/javaScript/JavaScript7dias_aulas_udemy/Desafios_javaScript/Desafio4)<br><br>
+
+
 
 <br><br>
 
