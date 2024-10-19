@@ -111,9 +111,9 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
     <td>
       <h3>Curso JavaScript em 7 dias + projetos reais - Udemy:</h3>
       <ul>
-        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/javaScript/JavaScript7dias_aulas_udemy">Exercícios </a>(Em andamento)</li>
-        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/javaScript/JavaScript7dias_aulas_udemy/Desafios_javaScript">Projetos </a>(Em andamento)</li>
-        <li><a href="">Certificado </a>(Em andamento)</li>
+        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/javaScript/JavaScript7dias_aulas_udemy">Exercícios </a></li>
+        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/javaScript/JavaScript7dias_aulas_udemy/Desafios_javaScript">Projetos </a></li>
+        <li><a href="https://www.udemy.com/certificate/UC-7a1ea296-5a56-4432-80a6-283d035b86e0/">Certificado </a></li>
       </ul>
     </td>
   </tr>
