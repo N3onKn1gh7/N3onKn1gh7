@@ -191,7 +191,7 @@ Este é um desafio da DIO referente ao projeto Pokedex que foi desenvolvido em a
 
 ## Stage University
 Este projeto tem como o objetivo aplicar técnicas de animações com o uso de css <br><br>
-![Demonstração do projeto](https://github.com/N3onKn1gh7/stage_university/blob/main/img/Stage.gif)
+![Demonstração do projeto](https://github.com/N3onKn1gh7/stage_university/blob/main/img/StageDemo.gif)
 -[Link do código do projeto](https://github.com/N3onKn1gh7/stage_university/tree/main)
 
 
