@@ -134,6 +134,20 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>
+      <img src="https://assets.dio.me/gt-tEnhv4_p33iwDXfI-zutfiEJ-q27qVfDCcnLV7I0/f:webp/h:120/q:80/L3RyYWNrcy9kYTA0M2M3YS03MTg5LTQ0MWUtYmYyOC1hZGMyZDA1YTQ5MzQucG5n" width="100"/>
+    </td>
+    <td>
+      <h3>Curso Formação CSS Web Developer - DIO:</h3>
+      <ul>
+        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/html/html_css_projetos_Dio">Projetos</a></li>
+        <li><a href="">Certificado em andamento</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
