@@ -69,8 +69,8 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
     <td>
       <h3>Formação - Python Fundamentals - DIO:</h3>
       <ul>
-        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/Python/Python_DIO">Exercicios</a></li>
-        <li><a href="https://hermes.dio.me/certificates/JXQ0DX2F.pdf">Certificado</a></li>
+        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/Python/Python_DIO">Exercicios</a>(Em andamento)</li>
+        <li><a href="">Certificado</a></li>
       </ul>
     </td>
   </tr>
@@ -84,8 +84,8 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
     <td>
       <h3>Curso Formação Java Developer - DIO:</h3>
       <ul>
-        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_exercicios_Dio">Exercícios</a> (Em andamento)</li>
-        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_projetos_Dio">Projetos</a> (Em andamento)</li>
+        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_exercicios_Dio">Exercícios</a> (Pausado)</li>
+        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_projetos_Dio">Projetos</a> (Pausado)</li>
       </ul>
     </td>
   </tr>
@@ -172,8 +172,8 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
     <td>
       <h3>Curso Java Completo - Udemy:</h3>
       <ul>
-        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_exercicios_Udemy">Exercícios</a> (Em andamento)</li>
-        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_projetos_Udemy/usuariodept">Projetos</a> (Em andamento)</li>
+        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_exercicios_Udemy">Exercícios</a> (Pausado)</li>
+        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_projetos_Udemy/usuariodept">Projetos</a> (Pausado)</li>
       </ul>
     </td>
   </tr>
