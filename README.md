@@ -64,6 +64,21 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
 <table>
   <tr>
     <td>
+      <img src="https://assets.dio.me/QGBMU101QN38cA6c6M9ukxMZvjWMsUrEyHXYR7AAf2s/f:webp/h:120/q:80/L3RyYWNrcy9hNzM2ZWY0Mi0wZDJmLTQwNzktYWRiNC0yNWM1NWM4NWJhMmIucG5n" width="100"/>
+    </td>
+    <td>
+      <h3>Formação - Python Fundamentals - DIO:</h3>
+      <ul>
+        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/bootcamps/Bootcamp_microsoft_dio">Projetos</a></li>
+        <li><a href="https://hermes.dio.me/certificates/JXQ0DX2F.pdf">Certificado</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
       <img src="https://assets.dio.me/KIwdxM7_x0DPiyrnNEBcio7DYZDqtaSz2G4OPaSsLgs/f:webp/h:120/q:80/L3RyYWNrcy9kYTYwNDFhOS04MGVmLTQwOWUtYmQ1MC01ZTdiZTRkZmFkZjYucG5n" width="100"/>
     </td>
     <td>
