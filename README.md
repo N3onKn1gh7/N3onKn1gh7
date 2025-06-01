@@ -69,7 +69,7 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
     <td>
       <h3>Formação - Python Fundamentals - DIO:</h3>
       <ul>
-        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/Python/Python_DIO">Exercicios</a>(Em andamento)</li>
+        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/Python/Python_DIO">Exercicios</a></li>
         <li><a href="">Certificado</a></li>
       </ul>
     </td>
