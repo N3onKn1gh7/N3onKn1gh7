@@ -60,6 +60,20 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="100"/>
+    </td>
+    <td>
+      <h3>Formação - C# Primeiros Passos - Udemy:</h3>
+      <ul>
+        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/CSharp/CSharp_Udemy_primeiros_passos/ExerciciosDeFixacao/ExercicioFixacao_01">Exercicios</a></li>
+        <li><a href="">Certificado</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
