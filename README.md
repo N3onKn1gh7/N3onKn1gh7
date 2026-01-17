@@ -3,8 +3,6 @@
 Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programação.<br><br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N3onKn1gh7&show_icons=true&theme=tokyonight)<br><br>
-
 
 ## Tecnologias que utilizo
 
@@ -69,7 +67,7 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
       <h3>Formação - C# Primeiros Passos - Udemy:</h3>
       <ul>
         <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/CSharp/CSharp_Udemy_primeiros_passos/ExerciciosDeFixacao/ExercicioFixacao_01">Exercicios</a></li>
-        <li><a href="">Certificado</a></li>
+        <li><a href="">Certificado</a> (Em andamento) </li>
       </ul>
     </td>
   </tr>
@@ -84,7 +82,7 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
       <h3>Formação - Python Fundamentals - DIO:</h3>
       <ul>
         <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/Python/Python_DIO">Exercicios</a></li>
-        <li><a href="">Certificado</a>Pausado</li>
+        <li><a href="">Certificado</a> (Pausado) </li>
       </ul>
     </td>
   </tr>
@@ -98,7 +96,7 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
     <td>
       <h3>Curso Formação Java Developer - DIO:</h3>
       <ul>
-        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_exercicios_Dio">Exercícios</a> (Pausado)</li>
+        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_exercicios_Dio">Exercícios</a></li>
         <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_projetos_Dio">Projetos</a> (Pausado)</li>
       </ul>
     </td>
@@ -113,7 +111,7 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
     <td>
       <h3>Curso Formação React Native Developer - DIO:</h3>
       <ul>
-        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/mobile/react_native_dio">Exercícios</a> (Em andamento)</li>
+        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/mobile/react_native_dio">Exercícios</a></li>
         <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/mobile/react_native_dio_projetos/projeto1_reactNative_dio/bat-pass-app">Projetos</a> (Em andamento)</li>
       </ul>
     </td>
@@ -127,7 +125,7 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
     <td>
       <h3>Curso Formação JavaScript Developer - DIO:</h3>
       <ul>
-        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/javaScript/JavaScript_exercicios_dio">Exercícios</a> (Em andamento)</li>
+        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/javaScript/JavaScript_exercicios_dio">Exercícios</a></li>
         <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/javaScript/JavaScript_exercicios_dio/Projetos">Projetos </a>(Em andamento)</li>
       </ul>
     </td>
@@ -172,7 +170,7 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
       <h3>Curso Formação CSS Web Developer - DIO:</h3>
       <ul>
         <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/html/html_css_projetos_Dio">Projetos</a></li>
-        <li><a href="">Certificado em andamento</a></li>
+        <li><a href="">Certificado</a> (Em andamento) </li>
       </ul>
     </td>
   </tr>
@@ -186,7 +184,7 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
     <td>
       <h3>Curso Java Completo - Udemy:</h3>
       <ul>
-        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_exercicios_Udemy">Exercícios</a> (Pausado)</li>
+        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_exercicios_Udemy">Exercícios</a></li>
         <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_projetos_Udemy/usuariodept">Projetos</a> (Pausado)</li>
       </ul>
     </td>
