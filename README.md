@@ -1,6 +1,10 @@
-### Olá! Eu sou o Marcos Silva 👨‍💻♘
+### Olá! Eu sou Marcos Silva 👨‍💻♘
 
-Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programação.<br><br>
+
+🎓 Engenheiro de Software e Técnico em eletrônica  
+💻 Explorando diferentes áreas da TI  
+📚 Compartilhando projetos e estudos  
+🚀 Aprendizado contínuo e desenvolvimento profissional
 
 
 
