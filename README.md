@@ -1,7 +1,7 @@
 ### Olá! Eu sou Marcos Silva 👨‍💻♘
 
 
-🎓 Engenheiro de Software e Técnico em eletrônica  
+🎓 Engenheiro de Software e Técnico em Eletrônica  
 💻 Explorando diferentes áreas da TI  
 📚 Compartilhando projetos e estudos  
 🚀 Aprendizado contínuo e desenvolvimento profissional
