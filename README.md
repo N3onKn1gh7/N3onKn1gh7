@@ -9,8 +9,13 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
 
 <div style="display: flex;">
 
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="margin-right: 10px;" />
 
+   <img alt="html5" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+
+   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-right: 10px;" />
+
+   <img alt="Linux" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+   
    <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin-right: 10px;" />
    
    <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin-right: 10px;" />
@@ -18,9 +23,6 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
    <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin-right: 10px;" />
 
    <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin-right: 10px;" />
-
-   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-right: 10px;" />
-</div>
 
 <br><br>
 
@@ -58,20 +60,6 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
     </td>
   </tr>
 </table>
-<table>
-  <tr>
-    <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="100"/>
-    </td>
-    <td>
-      <h3>Formação - C# Primeiros Passos - Udemy:</h3>
-      <ul>
-        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/CSharp/CSharp_Udemy_primeiros_passos/ExerciciosDeFixacao/ExercicioFixacao_01">Exercicios</a></li>
-        <li><a href="">Certificado</a> (Em andamento) </li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 <table>
   <tr>
@@ -82,22 +70,7 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
       <h3>Formação - Python Fundamentals - DIO:</h3>
       <ul>
         <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/Python/Python_DIO">Exercicios</a></li>
-        <li><a href="">Certificado</a> (Pausado) </li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://assets.dio.me/KIwdxM7_x0DPiyrnNEBcio7DYZDqtaSz2G4OPaSsLgs/f:webp/h:120/q:80/L3RyYWNrcy9kYTYwNDFhOS04MGVmLTQwOWUtYmQ1MC01ZTdiZTRkZmFkZjYucG5n" width="100"/>
-    </td>
-    <td>
-      <h3>Curso Formação Java Developer - DIO:</h3>
-      <ul>
-        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_exercicios_Dio">Exercícios</a></li>
-        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_projetos_Dio">Projetos</a> (Pausado)</li>
+        <li><a href="">Certificado</a> (Em andamento) </li>
       </ul>
     </td>
   </tr>
@@ -112,25 +85,12 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
       <h3>Curso Formação React Native Developer - DIO:</h3>
       <ul>
         <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/mobile/react_native_dio">Exercícios</a></li>
-        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/mobile/react_native_dio_projetos/projeto1_reactNative_dio/bat-pass-app">Projetos</a> (Em andamento)</li>
+        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/mobile/react_native_dio_projetos/projeto1_reactNative_dio/bat-pass-app">Projetos</a> (Pausado)</li>
       </ul>
     </td>
   </tr>
 </table>
-<table>
-  <tr>
-    <td>
-      <img src="https://assets.dio.me/_ImeVq2qMIfyFkoYC-epZ9o-1X9soGtq69WUykqhiL4/f:webp/h:120/q:80/L3RyYWNrcy81NWU3MDQwZi03NzViLTQ3ZTUtYThmYi02OWQwMDJjYTE3YTkucG5n" width="100"/>
-    </td>
-    <td>
-      <h3>Curso Formação JavaScript Developer - DIO:</h3>
-      <ul>
-        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/javaScript/JavaScript_exercicios_dio">Exercícios</a></li>
-        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/javaScript/JavaScript_exercicios_dio/Projetos">Projetos </a>(Em andamento)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+
 <table>
   <tr>
     <td>
@@ -171,21 +131,6 @@ Apaixonado por tecnologia, cultura nerd e por mudar o mundo através da programa
       <ul>
         <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/html/html_css_projetos_Dio">Projetos</a></li>
         <li><a href="">Certificado</a> (Em andamento) </li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/N3onKn1gh7/Estudos/blob/main/java/java_exercicios_Udemy/img/java.png" width="100"/>
-    </td>
-    <td>
-      <h3>Curso Java Completo - Udemy:</h3>
-      <ul>
-        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_exercicios_Udemy">Exercícios</a></li>
-        <li><a href="https://github.com/N3onKn1gh7/Estudos/tree/main/java/java_projetos_Udemy/usuariodept">Projetos</a> (Pausado)</li>
       </ul>
     </td>
   </tr>
